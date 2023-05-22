@@ -1,0 +1,3 @@
+tasks:
+  - name:Install Drt SDK
+    command:bash install_dart.sh
